@@ -1,0 +1,188 @@
+{
+      "Title":[
+               {
+            	   "name":"推荐"
+               },
+               {
+            	   "name":"手机"
+               },
+               {
+            	   "name":"智能"
+               },
+               {
+            	   "name":"电视"
+               },
+               {
+            	   "name":"家电"
+               },
+               {
+            	   "name":"笔记本"
+               },
+               {
+            	   "name":"生活周边"
+               },
+               {
+            	   "name":""
+               }
+                            
+            ],
+        "Pic":[
+               {
+            	   "src":"./img/one.jpg"
+               },
+               {
+            	   "src":"./img/two.jpg"
+               },
+               {
+            	   "src":"./img/three.jpg"
+               }
+              ],
+         "Middlepic":[
+               {
+            	   "src":"./img/new.webp.jpg"
+               },       
+               {
+            	   "src":"./img/newtwo.webp.jpg"
+               }, 
+               {
+            	   "src":"./img/newthree.webp.jpg"
+               }, 
+               {
+            	   "src":"./img/newfour.webp.jpg"
+               }, 
+               {
+            	   "src":"./img/car.webp.jpg"
+               }
+                                                           
+            ],
+        "Bigbox":[
+            {
+            	"src":"./img/bigbox1.webp.jpg",
+            	"src1":"./img/bigbox2.webp.jpg"
+		         }
+        ],
+        "Smallbox":[
+            {
+            	"src":"./img/smallbox.webp.jpg",
+        		"src1":"./img/smallbox1.webp.jpg",
+        		"name":"小米8 青春版",
+        		"msg":"2400万旗舰自拍",
+        		"price":"1399",
+        		"oldprice":"1699",
+        		"name1":"小米8 屏幕指纹版",
+        		"msg1":"压感屏幕指纹，手持超级夜景",
+        		"price1":"2499",
+        		"oldprice1":"2999"
+		         },
+	         {
+	            	"src":"./img/heisha.webp.jpg",
+	        		"src1":"./img/redmi6.webp.jpg",
+	        		"name":"黑鲨游戏手机 Helo",
+	        		"msg":"双液冷，更能打",
+	        		"price":"3199",
+	        		"oldprice":"3499",
+	        		"name1":"红米6",
+	        		"msg1":"小屏高性能的双摄",
+	        		"price1":"729",
+	        		"oldprice1":"799"
+			         }
+		         
+        ]  ,
+
+	  "list":[
+		  {	
+			 "tip":"更多小米手机产品 >",
+			 "class":"big-box2",
+			 "children":[
+				 {
+					 "class":"big-box-pic",
+					 "bigbox_pic":[
+						 {
+							"src":"./img/bigbox1.webp.jpg",
+							 "src1":"./img/bigbox2.webp.jpg"
+						 }
+					 ]
+					
+				  },
+				  {
+					  "class":"big-box-two-produce",
+					  "msg":[
+						  {
+							 "src":"./img/heisha.webp.jpg",
+							 "src1":"./img/redmi6.webp.jpg",
+							 "name":"黑鲨游戏手机 Helo",
+							 "msg":"双液冷，更能打",
+							 "price":"3199",
+							 "oldprice":"3499",
+							 "name1":"红米6",
+							 "msg1":"小屏高性能的双摄",
+							 "price1":"729",
+							 "oldprice1":"799" 
+						  },
+						   {
+						  	"src":"./img/smallbox.webp.jpg",
+						  	"src1":"./img/smallbox1.webp.jpg",
+						  	"name":"小米8 青春版",
+						  	"msg":"2400万旗舰自拍",
+						  	"price":"1399",
+						  	"oldprice":"1699",
+						  	"name1":"小米8 屏幕指纹版",
+						  	"msg1":"压感屏幕指纹，手持超级夜景",
+						  	"price1":"2499",
+						  	"oldprice1":"2999"
+						       }
+					  ]
+				 }
+			 ]
+			
+		  },
+		  {	
+		  			 "tip":"更多小米手机产品 >",
+		  			 "class":"big-box2",
+		  			 "children":[
+		  				 {
+		  					 "class":"big-box-pic",
+		  					 "bigbox_pic":[
+		  						 {
+		  							"src":"./img/bigbox1.webp.jpg",
+		  							 "src1":"./img/bigbox2.webp.jpg"
+		  						 }
+		  					 ]
+		  					
+		  				  },
+		  				  {
+		  					  "class":"big-box-two-produce",
+		  					  "msg":[
+		  						  {
+		  							 "src":"./img/heisha.webp.jpg",
+		  							 "src1":"./img/redmi6.webp.jpg",
+		  							 "name":"黑鲨游戏手机 Helo",
+		  							 "msg":"双液冷，更能打",
+		  							 "price":"3199",
+		  							 "oldprice":"3499",
+		  							 "name1":"红米6",
+		  							 "msg1":"小屏高性能的双摄",
+		  							 "price1":"729",
+		  							 "oldprice1":"799" 
+		  						  },
+		  						   {
+		  						  	"src":"./img/smallbox.webp.jpg",
+		  						  	"src1":"./img/smallbox1.webp.jpg",
+		  						  	"name":"小米8 青春版",
+		  						  	"msg":"2400万旗舰自拍",
+		  						  	"price":"1399",
+		  						  	"oldprice":"1699",
+		  						  	"name1":"小米8 屏幕指纹版",
+		  						  	"msg1":"压感屏幕指纹，手持超级夜景",
+		  						  	"price1":"2499",
+		  						  	"oldprice1":"2999"
+		  						       }
+		  					  ]
+		  				 }
+		  			 ]
+		  			
+		  }
+		 
+	  ]
+
+}

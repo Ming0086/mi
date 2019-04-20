@@ -1,0 +1,36 @@
+{
+	"list":[
+		{
+			"src":"./img/goods1.jpg",
+			"title":"智能眼镜",
+			"price":"199",
+			"d_price":"299",
+			"flag":"true"
+		},
+		{
+			"src":"./img/goods1.jpg",
+			"title":"智能眼镜",
+			"price":"199"
+		},
+		{
+			"src":"./img/goods1.jpg",
+			"title":"智能眼镜",
+			"price":"199"
+		},
+		{
+			"src":"./img/goods1.jpg",
+			"title":"智能眼镜",
+			"price":"199"
+		},
+		{
+			"src":"./img/goods1.jpg",
+			"title":"智能眼镜",
+			"price":"199"
+		},
+		{
+			"src":"./img/goods1.jpg",
+			"title":"智能眼镜",
+			"price":"199"
+		}
+	]
+}
